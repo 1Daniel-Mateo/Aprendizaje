@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8e873b002499f6f7",
+        "id": "ae9d1733d06bee5a",
         "type": "tabs",
         "children": [
           {
-            "id": "546adfc723092869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Fundamentos de programación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bab1f89c3b1fc4f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70090a8d118e68f1",
+            "id": "87789e142c5f2887",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53ebc257edbc61e1",
@@ -106,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,30 +136,36 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-projects:Open projects": false,
-      "card-board:CardBoard": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bab1f89c3b1fc4f5",
+  "active": "87789e142c5f2887",
   "lastOpenFiles": [
+    "Carrera/PYTHON Y PROFUNDIZACION/FastAPI.md",
+    "Programación/Api y framework/APIS.md",
     "Programación/Fundamentos de programación.md",
-    "readme.md.md",
-    "Programación/Frameworks.md",
-    "Programación/PYTHON Y PROFUNDIZACION/Retos de logica.md",
+    "Programación/Api y framework/Frameworks.md",
     "Imagenes/tabla de datos.jpg",
+    "Imagenes/comparadores.png",
+    "Programación/GIT-HUB/Git y Git-Hub.md",
+    "Programación/PROYECTO ITOP/ITOP.md",
+    "Carrera/Retos de logica.md",
+    "Programación/Api y framework",
+    "Carrera/Curso MEAN STACK",
+    "Carrera",
+    "Programación/GIT-HUB/Sin título.canvas",
+    "Programación/GIT-HUB",
+    "readme.md.md",
     "Imagenes/tabla de datos.jpg.crdownload",
     "RUTA DE APRENDIZAJE.md",
-    "Imagenes/comparadores.png",
     "Imagenes/comparadores.png.crdownload",
-    "Programación/PROYECTO ITOP/ITOP.md",
     "Programación",
     "Sin título 2.canvas",
     "Sin título.canvas",
     "Imagenes",
     "Sin título 1.canvas",
     "2024-08-28.md",
-    "Programación/PYTHON Y PROFUNDIZACION",
+    "Carrera/PYTHON Y PROFUNDIZACION",
     "Programación/PROYECTO ITOP"
   ]
 }

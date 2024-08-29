@@ -2,6 +2,8 @@
 
 [[Frameworks]]
 [[Retos de logica]]
+[[Git y Git-Hub]]
+[[APIS]]
 
 Procesos de crear instrucciones que pueda entender una computadora utilizando lenguajes de programación que son interpretes para la computadora y el desarrollador, utilizando estas herramientas se pueden desarrollar programas software orientados a solucionar necesidades especificas.
 ### **LENGUAJES**
