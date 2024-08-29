@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e6071696e732e2",
+        "id": "8e873b002499f6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "5ce33a7746df958a",
+            "id": "546adfc723092869",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Frameworks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programación/Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programación/Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programación/Frameworks.md"
+              }
             }
           }
         ]
@@ -130,24 +138,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-projects:Open projects": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "5ce33a7746df958a",
+  "active": "546adfc723092869",
   "lastOpenFiles": [
+    "Programación/Fundamentos de programación.md",
+    "Programación/Frameworks.md",
+    "Programación/PYTHON Y PROFUNDIZACION/Retos de logica.md",
+    "Imagenes/comparadores.png",
+    "Imagenes/comparadores.png.crdownload",
+    "Programación/PROYECTO ITOP/ITOP.md",
+    "Programación",
     "Sin título 2.canvas",
     "Sin título.canvas",
     "Imagenes",
     "Sin título 1.canvas",
     "2024-08-28.md",
-    "PYTHON Y PROFUNDIZACION/Retos de logica.md",
-    "PYTHON Y PROFUNDIZACION",
-    "PROYECTO ITOP/ITOP.md",
-    "PROYECTO ITOP"
+    "Programación/PYTHON Y PROFUNDIZACION",
+    "Programación/PROYECTO ITOP"
   ]
 }
