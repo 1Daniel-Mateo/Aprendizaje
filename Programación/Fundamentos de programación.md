@@ -17,7 +17,10 @@ Los lenguajes de programación son los interpretes que transforman el lenguaje h
 7. SWIFT
 
 **Variables:** Espacios de memoria en la computadora que se utilizan para la ingreso de datos temporales, que después se usaran para la transmisión de información almacenada en la variable. 
+### **TIPO DE DATOS**
 
+Son definiciones de la información ingresada dentro de los datos los cuales al categorizarse por tipo facilita su extracción.
+![[tabla de datos.jpg]]
 ### **OPERADORES LÓGICOS**
 Se usan para comparar dos variables o expresiones y obtener un valor verdadero o falso.
 

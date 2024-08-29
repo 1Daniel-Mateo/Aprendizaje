@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Frameworks.md",
+                "file": "Programación/Fundamentos de programación.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bab1f89c3b1fc4f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70090a8d118e68f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Frameworks.md",
+                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Frameworks.md",
+                "file": "readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Frameworks.md"
+                "file": "readme.md.md"
               }
             }
           }
@@ -148,11 +169,15 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "546adfc723092869",
+  "active": "bab1f89c3b1fc4f5",
   "lastOpenFiles": [
     "Programación/Fundamentos de programación.md",
+    "readme.md.md",
     "Programación/Frameworks.md",
     "Programación/PYTHON Y PROFUNDIZACION/Retos de logica.md",
+    "Imagenes/tabla de datos.jpg",
+    "Imagenes/tabla de datos.jpg.crdownload",
+    "RUTA DE APRENDIZAJE.md",
     "Imagenes/comparadores.png",
     "Imagenes/comparadores.png.crdownload",
     "Programación/PROYECTO ITOP/ITOP.md",
