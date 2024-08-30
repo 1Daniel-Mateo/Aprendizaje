@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9d1733d06bee5a",
+        "id": "ed943524ce35ade6",
         "type": "tabs",
         "children": [
           {
-            "id": "87789e142c5f2887",
+            "id": "9bb93463a6bd7742",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -45,7 +45,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "53ebc257edbc61e1",
@@ -139,33 +138,50 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "87789e142c5f2887",
+  "active": "9bb93463a6bd7742",
   "lastOpenFiles": [
+    "Carrera/Analisís de datos/Análisis en tiempo real.md",
+    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/Analisís de datos/Análisis de datos en acción.md",
+    "Carrera/Api y framework/Frameworks.md",
+    "Carrera/Fundamentos de programación.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/JAVA SCRIPT.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/TypeScript.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Node.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/React y React Native.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Curso mean.md",
     "Carrera/PYTHON Y PROFUNDIZACION/FastAPI.md",
-    "Programación/Api y framework/APIS.md",
-    "Programación/Fundamentos de programación.md",
-    "Programación/Api y framework/Frameworks.md",
+    "Carrera/Curso MEAN STACK/Angular.md",
+    "Carrera/Curso MEAN STACK/Sin nombre",
+    "Carrera/Analisís de datos/Laboratorios/Laboratorios.md",
+    "Carrera/Analisís de datos/Laboratorios/Taller 1 preguntas correctas.md",
+    "Carrera/Analisís de datos/Laboratorios",
+    "Carrera/Api y framework/APIS.md",
+    "Imagenes/Proceso Iterativo.png",
+    "Pasted image 20240830112032.png",
+    "Sin título.canvas",
+    "Sin nombre",
+    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
+    "Carrera/Analisís de datos",
+    "Carrera/Linux/Linux.md",
+    "Carrera/Linux",
+    "Carrera/PYTHON Y PROFUNDIZACION/contenido",
     "Imagenes/tabla de datos.jpg",
     "Imagenes/comparadores.png",
-    "Programación/GIT-HUB/Git y Git-Hub.md",
-    "Programación/PROYECTO ITOP/ITOP.md",
-    "Carrera/Retos de logica.md",
-    "Programación/Api y framework",
-    "Carrera/Curso MEAN STACK",
+    "Carrera/GIT-HUB/Git y Git-Hub.md",
+    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
+    "Carrera/Api y framework",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES",
     "Carrera",
     "Programación/GIT-HUB/Sin título.canvas",
-    "Programación/GIT-HUB",
+    "Carrera/GIT-HUB",
     "readme.md.md",
-    "Imagenes/tabla de datos.jpg.crdownload",
     "RUTA DE APRENDIZAJE.md",
-    "Imagenes/comparadores.png.crdownload",
-    "Programación",
     "Sin título 2.canvas",
-    "Sin título.canvas",
-    "Imagenes",
     "Sin título 1.canvas",
-    "2024-08-28.md",
-    "Carrera/PYTHON Y PROFUNDIZACION",
-    "Programación/PROYECTO ITOP"
+    "2024-08-28.md"
   ]
 }

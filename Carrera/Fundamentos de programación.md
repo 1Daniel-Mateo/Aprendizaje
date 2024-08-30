@@ -1,9 +1,12 @@
 #fundamentos_basicos 
 
 [[Frameworks]]
-[[Retos de logica]]
+[[Python]]
 [[Git y Git-Hub]]
 [[APIS]]
+[[Linux]]
+[[Fundamentos en análisis de datos]]
+[[JAVA SCRIPT]]
 
 Procesos de crear instrucciones que pueda entender una computadora utilizando lenguajes de programación que son interpretes para la computadora y el desarrollador, utilizando estas herramientas se pueden desarrollar programas software orientados a solucionar necesidades especificas.
 ### **LENGUAJES**

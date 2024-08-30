@@ -29,7 +29,7 @@ Estos son los frameworks en los que he desarrollado en los cuales tengo un conoc
 
 1. Angular: Su arquitectura basada en componentes reutilizables, me facilita la organización y mantenimiento del código.
    
-   Aprendizaje: 
+   Aprendizaje: [[Angular]]
    
 2. Laravel:  Su arquitectura ha sido interesante es un framework back y front bastante completo, tiene un excelente soporte.
    
@@ -37,9 +37,8 @@ Estos son los frameworks en los que he desarrollado en los cuales tengo un conoc
    
 3. Express: Es uno de los mejores frameworks que he probado para back-end sencillo de utilizar, bastante optimizada y el uso de api-restFull.
    
-   Aprendizaje:
+   Aprendizaje:[[Express]]
 
 4.  FastAPI:  Es uno de los framework que estoy aprendiendo mas enfocando al 
-   
-   
-   
+
+	Aprendizaje:[[FastAPI]]
