@@ -135,3 +135,15 @@ while(condicion){
 
 ```
 
+**COMENTARIOS**
+
+En desarrollo necesitas dejar referencias o saber como funciona necesitas comentarios estas son líneas cortas que se usan para indicar partes del código en especifico.
+
+Estas líneas varían según la sintaxis; sin embargo su lógica es la misma
+
+```
+
+# cometarios python
+/* comentarios javascript y typescript */
+// comentarios java
+```

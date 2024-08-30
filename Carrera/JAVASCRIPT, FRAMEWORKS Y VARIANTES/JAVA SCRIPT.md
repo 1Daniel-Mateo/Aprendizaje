@@ -1,5 +1,5 @@
 
 Frameworks: [[React y React Native]],[[Angular]] y [[Express]]
 Gestor de paquetes: [[Node]]
-PILA:[[Curso mean]]
+PILA:[[CURSO MEAN]]
 TypeScript: [[TypeScript]]

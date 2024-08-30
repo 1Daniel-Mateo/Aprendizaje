@@ -11,8 +11,12 @@
             "id": "9bb93463a6bd7742",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md"
+              }
             }
           }
         ]
@@ -140,19 +148,25 @@
   },
   "active": "9bb93463a6bd7742",
   "lastOpenFiles": [
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/CURSO MEAN.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
+    "Carrera/Analisís de datos/Análisis de datos en acción.md",
     "Carrera/Analisís de datos/Análisis en tiempo real.md",
     "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
-    "Carrera/Analisís de datos/Análisis de datos en acción.md",
-    "Carrera/Api y framework/Frameworks.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/FastAPI.md",
     "Carrera/Fundamentos de programación.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/Introducción.md",
+    "Sin nombre",
+    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast",
+    "Carrera/Api y framework/Frameworks.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/JAVA SCRIPT.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/TypeScript.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Node.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/React y React Native.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Curso mean.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/FastAPI.md",
     "Carrera/Curso MEAN STACK/Angular.md",
     "Carrera/Curso MEAN STACK/Sin nombre",
     "Carrera/Analisís de datos/Laboratorios/Laboratorios.md",
@@ -162,8 +176,6 @@
     "Imagenes/Proceso Iterativo.png",
     "Pasted image 20240830112032.png",
     "Sin título.canvas",
-    "Sin nombre",
-    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
     "Carrera/Analisís de datos",
     "Carrera/Linux/Linux.md",
     "Carrera/Linux",
@@ -175,13 +187,10 @@
     "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
     "Carrera/Api y framework",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES",
-    "Carrera",
     "Programación/GIT-HUB/Sin título.canvas",
-    "Carrera/GIT-HUB",
     "readme.md.md",
     "RUTA DE APRENDIZAJE.md",
     "Sin título 2.canvas",
-    "Sin título 1.canvas",
-    "2024-08-28.md"
+    "Sin título 1.canvas"
   ]
 }
