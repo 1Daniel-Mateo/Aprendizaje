@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✏",
       "LiCode",
       "LiAtom"
     ],
@@ -30,5 +31,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Carrera": "LiCode"
+  "Carrera": "LiCode",
+  "Proyecto Literario": "✏"
 }
