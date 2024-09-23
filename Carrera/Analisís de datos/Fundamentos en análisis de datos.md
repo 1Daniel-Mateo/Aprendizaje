@@ -2,10 +2,11 @@
 ## Introducción
 
 1. Análisis en tiempo real: Explicar el valor del análisis de datos.
-   [[Análisis en tiempo real]]
-1. Análisis de datos en acción: Descripción de fases de un proceso analítico.
-   
-4. La cartera de proyecto: Explicación de como crear y compartir una cartera de proyectos.
+    [[Análisis en tiempo real]]
+2. Introducción a la recopilación e investigación de datos.
+   [[Herramientas para la compresión]]
+
+
 
 
 

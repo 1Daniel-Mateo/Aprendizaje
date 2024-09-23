@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed943524ce35ade6",
+        "id": "5457abe18e600df4",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb93463a6bd7742",
+            "id": "e9a2b70a7434f624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+                "file": "Carrera/Fundamentos de programación.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "53ebc257edbc61e1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+                "file": "Carrera/Fundamentos de programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+                "file": "Carrera/Fundamentos de programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md"
+                "file": "Carrera/Fundamentos de programación.md"
               }
             }
           }
@@ -146,18 +147,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9bb93463a6bd7742",
+  "active": "e9a2b70a7434f624",
   "lastOpenFiles": [
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/CURSO MEAN.md",
+    "Carrera/PROYECTO ITOP/Errores y soluciones.md",
+    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 2/Herramientas para la compresión.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis en tiempo real.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis de datos en acción.md",
+    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 2/Conceptos y características básicas de Excel.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 2",
+    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Taller 1 preguntas correctas.md",
+    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Laboratorios.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 1/Cartera de Proyectos.md",
+    "Carrera/Api y framework/APIS.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
+    "Carrera/Fundamentos de programación.md",
+    "Imagenes/extensiones a instalar.png",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/Configuración apiRest.md",
+    "Imagenes/configuracion de paquete.png",
+    "Carrera/Analisís de datos/Fundamentos/sección 1",
+    "Carrera/Analisís de datos/Fundamentos",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/CURSO MEAN.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
-    "Carrera/Analisís de datos/Análisis de datos en acción.md",
-    "Carrera/Analisís de datos/Análisis en tiempo real.md",
-    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
     "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/FastAPI.md",
-    "Carrera/Fundamentos de programación.md",
     "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/Introducción.md",
     "Sin nombre",
     "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast",
@@ -166,30 +183,16 @@
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/TypeScript.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Node.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/React y React Native.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
-    "Carrera/Curso MEAN STACK/Angular.md",
     "Carrera/Curso MEAN STACK/Sin nombre",
-    "Carrera/Analisís de datos/Laboratorios/Laboratorios.md",
-    "Carrera/Analisís de datos/Laboratorios/Taller 1 preguntas correctas.md",
-    "Carrera/Analisís de datos/Laboratorios",
-    "Carrera/Api y framework/APIS.md",
+    "Carrera/Analisís de datos/Fundamentos/Laboratorios",
     "Imagenes/Proceso Iterativo.png",
     "Pasted image 20240830112032.png",
     "Sin título.canvas",
     "Carrera/Analisís de datos",
-    "Carrera/Linux/Linux.md",
     "Carrera/Linux",
-    "Carrera/PYTHON Y PROFUNDIZACION/contenido",
     "Imagenes/tabla de datos.jpg",
     "Imagenes/comparadores.png",
-    "Carrera/GIT-HUB/Git y Git-Hub.md",
-    "Carrera/PROYECTO ITOP/ITOP.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
-    "Carrera/Api y framework",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES",
     "Programación/GIT-HUB/Sin título.canvas",
-    "readme.md.md",
-    "RUTA DE APRENDIZAJE.md",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
   ]

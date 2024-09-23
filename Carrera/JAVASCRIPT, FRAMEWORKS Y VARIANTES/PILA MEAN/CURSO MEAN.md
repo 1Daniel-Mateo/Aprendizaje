@@ -7,6 +7,7 @@
 
 Son dos sistemas de computación que se utilizan para el intercambio de información de manera segura en internet, transmitiendo información por peticiones y respuestas que son enviadas en archivo .json.
 
+[[Configuración apiRest]]
 ###### Requisitos para desarrollo
 
 Base de datos: MongoDB
