@@ -44,3 +44,6 @@ Plantilla para documentar comentarios
 - Se valido que fueron almacenados en la base de datos.  
 
 
+Valido que la distribución de los campos de cambios normales dentro del modulo de cambios en la versión 3.2 se encuentran desajustados comparada con la versión 2.6, esta versión funcional, podemos ingresar y actualizar los datos. Se tendrá que ajustar en la fase de ajustes del aplicativo.
+
+Validación de distribución y funcionalidad de localidades

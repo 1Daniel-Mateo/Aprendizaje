@@ -2,7 +2,7 @@
 
 [[Frameworks]]
 [[Python]]
-[[Git y Git-Hub]]
+[[Git, Git-Hub y Git Hub Actions]]
 [[APIS]]
 [[Linux]]
 [[Fundamentos en análisis de datos]]

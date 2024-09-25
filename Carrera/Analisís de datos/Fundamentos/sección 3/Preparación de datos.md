@@ -1,0 +1,1 @@
+Configurar datos según los requisitos de un análisis

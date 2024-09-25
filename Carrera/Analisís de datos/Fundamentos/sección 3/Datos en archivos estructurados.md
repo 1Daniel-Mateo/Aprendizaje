@@ -1,0 +1,1 @@
+Describir varios tipos de datos estructurados

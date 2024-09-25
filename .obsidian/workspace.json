@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b12fab2a0df32525",
+        "id": "068d0ce2c6f1e3f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5d26e32bd50fcb62",
+            "id": "acab4ea8d810f51e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md"
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md"
               }
             }
           }
@@ -146,31 +146,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5d26e32bd50fcb62",
+  "active": "acab4ea8d810f51e",
   "lastOpenFiles": [
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3",
     "Carrera/PROYECTO ITOP/Errores y soluciones.md",
+    "Proyecto Literario/Hashinki/LA CASA HASHINKI DE ANGOSTURA.md",
+    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
+    "Proyecto Literario/Hashinki",
     "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
-    "Imagenes/Pasted image 20240923150250.png",
+    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Taller 1 preguntas correctas.md",
+    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Laboratorios.md",
     "Carrera/Analisís de datos/Fundamentos/sección 2/Conceptos y características básicas de Excel.md",
     "Carrera/Analisís de datos/Fundamentos/sección 2/Herramientas para la compresión.md",
+    "Imagenes/Pasted image 20240923150250.png",
     "Pasted image 20240923141812.png",
-    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Taller 1 preguntas correctas.md",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.csv",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/~$Organización de datos.xlsx",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Laboratorios.md",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.xlsx",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/4E8FB910",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Nueva carpeta",
     "Proyecto Literario/Estudio",
     "Proyecto Literario/microcuentos",
-    "Proyecto Literario",
     "Carrera/Fundamentos de programación.md",
-    "Carrera/PROYECTO ITOP/ITOP.md",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis en tiempo real.md",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis de datos en acción.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 2",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Cartera de Proyectos.md",
     "Carrera/Api y framework/APIS.md",
     "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
@@ -181,12 +188,6 @@
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/CURSO MEAN.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/FastAPI.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/Introducción.md",
-    "Carrera/Api y framework/Frameworks.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/JAVA SCRIPT.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/TypeScript.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Node.md",
     "Imagenes/Proceso Iterativo.png",
     "Pasted image 20240830112032.png",
     "Sin título.canvas",
