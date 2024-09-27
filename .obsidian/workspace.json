@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "068d0ce2c6f1e3f4",
+        "id": "377b9a12a8b0b803",
         "type": "tabs",
         "children": [
           {
-            "id": "acab4ea8d810f51e",
+            "id": "9f60a69dd996d06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md"
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md"
               }
             }
           }
@@ -146,20 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "acab4ea8d810f51e",
+  "active": "ff5654a36d4fe2fc",
   "lastOpenFiles": [
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+    "Imagenes/Pasted image 20240927165429.png",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3",
     "Carrera/PROYECTO ITOP/Errores y soluciones.md",
-    "Proyecto Literario/Hashinki/LA CASA HASHINKI DE ANGOSTURA.md",
-    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+    "Proyecto Literario/Novela/LA CASA HASHINKI DE ANGOSTURA.md",
     "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
+    "Carrera/Fundamentos de programación.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3",
+    "Carrera/PROYECTO ITOP/ITOP.md",
     "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
-    "Proyecto Literario/Hashinki",
+    "Proyecto Literario/Novela",
     "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Taller 1 preguntas correctas.md",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Laboratorios.md",
@@ -175,7 +177,6 @@
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Nueva carpeta",
     "Proyecto Literario/Estudio",
     "Proyecto Literario/microcuentos",
-    "Carrera/Fundamentos de programación.md",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis en tiempo real.md",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis de datos en acción.md",
     "Carrera/Analisís de datos/Fundamentos/sección 1/Cartera de Proyectos.md",
@@ -187,7 +188,6 @@
     "Imagenes/configuracion de paquete.png",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Angular.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/PILA MEAN/CURSO MEAN.md",
-    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/Express.md",
     "Imagenes/Proceso Iterativo.png",
     "Pasted image 20240830112032.png",
     "Sin título.canvas",

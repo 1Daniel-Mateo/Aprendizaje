@@ -5,8 +5,7 @@
     [[Análisis en tiempo real]]
 2. Introducción a la recopilación e investigación de datos.
    [[Herramientas para la compresión]]
-
-
-
+3. Preparación y limpieza para análisis. 
+   [[Preparación y limpieza de datos para el análisis]]
 
 
