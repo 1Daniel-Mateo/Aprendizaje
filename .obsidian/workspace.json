@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md"
+                "file": "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9f60a69dd996d06b",
   "lastOpenFiles": [
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
     "Carrera/Matematicas/Mes 1/SEMANA 1.md",
     "Carrera/Matematicas/Mes 1/Mes 1 = Fundamentos y Consolidación de la Base Matemática.md",
@@ -163,7 +164,6 @@
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
     "Proyecto Literario/Novela/LA CASA HASHINKI DE ANGOSTURA.md",
     "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3",
     "Carrera/PROYECTO ITOP/ITOP.md",
     "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
