@@ -51,3 +51,5 @@ Validación de distribución y funcionalidad de localidades
 Perfiles que presentan problema
 1. admin tools manager
 2. audit manager
+
+Necesidad de evaluar la utilidad de muchos campos ya que muchos de estos no tienen mucho uso
