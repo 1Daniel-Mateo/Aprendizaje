@@ -7,6 +7,8 @@
 [[Linux]]
 [[Fundamentos en análisis de datos]]
 [[JAVA SCRIPT]]
+[[Plan de estudio Matemáticas]]
+[[ITOP]]
 
 Procesos de crear instrucciones que pueda entender una computadora utilizando lenguajes de programación que son interpretes para la computadora y el desarrollador, utilizando estas herramientas se pueden desarrollar programas software orientados a solucionar necesidades especificas.
 ### **LENGUAJES**
@@ -147,3 +149,6 @@ Estas líneas varían según la sintaxis; sin embargo su lógica es la misma
 /* comentarios javascript y typescript */
 // comentarios java
 ```
+
+
+**QUERY:** instrucciones que se envían a una base de datos para recuperar, cambiar o manipular datos

@@ -1,7 +1,15 @@
+Requisitos de desarrollo para instalar fastApi
+
+1. Docker: Gestor de paquetes
+2. Python: Instalación de este desarrollo
+3. IDE: Editor para desarrollo
+
+Desarrollo se necesita un computador de 8 gb ram y 500 gb de almacenamiento.
+
 
 CONTENIDO DE CURSO FASTAPI
 
-1. Introducción de la API y su funcionalidad:[[Introducción]]
+1. Introducción de la API y su funcionalidad
 2. Proyecto 1:
 3. Métodos Crud:
 4. Proyecto 2:
@@ -17,3 +25,4 @@ CONTENIDO DE CURSO FASTAPI
 14. Desarrollo de una pila completa(Fullstack)
 15. Configuración Git y GitHub:
 16. Desarrollo
+

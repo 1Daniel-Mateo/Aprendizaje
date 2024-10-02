@@ -1,3 +1,4 @@
+#preparación_de_datos
 [[Fuente de datos]]
 [[Datos en archivos estructurados]]
 [[Datos no estructurados]]

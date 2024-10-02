@@ -32,3 +32,6 @@ La división de dos fracciones es otra fracción por numerador el producto de lo
 
 Ejemplo:
 
+
+###### Transformar fracción impropia a propia y viceversa:
+

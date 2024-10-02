@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "377b9a12a8b0b803",
+        "id": "b60902d1f8efca53",
         "type": "tabs",
         "children": [
           {
-            "id": "9f60a69dd996d06b",
+            "id": "367a11a1f05b3c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md"
+                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md"
               }
             }
           }
@@ -146,54 +146,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9f60a69dd996d06b",
+  "active": "367a11a1f05b3c73",
   "lastOpenFiles": [
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
     "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/Fundamentos de programación.md",
+    "Carrera/Linux/Linux.md",
+    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/GIT-HUB/sección 1/Configuración básica.md",
+    "Imagenes/Pasted image 20241002140822.png",
     "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
+    "Carrera/Api y framework/React y React Native.md",
+    "Carrera/Api y framework/Frameworks.md",
+    "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/JAVA SCRIPT.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
+    "Carrera/PYTHON Y PROFUNDIZACION/Curso Fast/Curso.md",
+    "Carrera/Api y framework/FastAPI.md",
+    "Carrera/Api y framework/Express.md",
+    "Carrera/Api y framework/Angular.md",
+    "Carrera/Api y framework/TypeScript.md",
+    "Proyecto Literario/Novela/MUNDO.md",
+    "Carrera/GIT-HUB/sección 1",
     "Carrera/Matematicas/Mes 1/SEMANA 1.md",
+    "Proyecto Literario/Novela/CASA VIRTERRA/Adros II Virterra.md",
+    "Proyecto Literario/Novela/CASA HASHINKI/El Márquez Ciro Hashinki.md",
+    "Proyecto Literario/Novela/CASA VIRTERRA",
+    "Proyecto Literario/Novela/CASA HASHINKI",
+    "Proyecto Literario/Novela/CASA HASHINKI/LA CASA HASHINKI DE ANGOSTURA.md",
     "Carrera/Matematicas/Mes 1/Mes 1 = Fundamentos y Consolidación de la Base Matemática.md",
     "Imagenes/reconocer-fracciones_ver_1.png",
-    "Carrera/Matematicas/Plan de estudio Matemáticas.md",
-    "Carrera/Fundamentos de programación.md",
     "Carrera/Matematicas/Mes 1",
-    "Carrera/PROYECTO ITOP/Errores y soluciones.md",
     "Carrera/Matematicas",
     "Imagenes/Pasted image 20240927165429.png",
-    "Proyecto Literario/Novela/LA CASA HASHINKI DE ANGOSTURA.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3",
-    "Carrera/PROYECTO ITOP/ITOP.md",
     "Proyecto Literario/Novela",
-    "Carrera/Analisís de datos/Fundamentos/sección 2/Organización de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Taller 1 preguntas correctas.md",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Laboratorios.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 2/Conceptos y características básicas de Excel.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 2/Herramientas para la compresión.md",
     "Imagenes/Pasted image 20240923150250.png",
     "Pasted image 20240923141812.png",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.csv",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/~$Organización de datos.xlsx",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.xlsx",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/4E8FB910",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Nueva carpeta",
-    "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis en tiempo real.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 1/Análisis de datos en acción.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 1/Cartera de Proyectos.md",
-    "Carrera/Api y framework/APIS.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Retos de logica.md",
-    "Carrera/PYTHON Y PROFUNDIZACION/Python.md",
     "Imagenes/extensiones a instalar.png",
     "Imagenes/configuracion de paquete.png",
     "Imagenes/Proceso Iterativo.png",
     "Pasted image 20240830112032.png",
     "Sin título.canvas",
     "Imagenes/tabla de datos.jpg",
-    "Imagenes/comparadores.png",
     "Programación/GIT-HUB/Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"

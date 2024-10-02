@@ -1,4 +1,4 @@
-[[FastAPI]]
+[[Curso]]
 [[Retos de logica]]
 
 

@@ -39,6 +39,10 @@ Estos son los frameworks en los que he desarrollado en los cuales tengo un conoc
    
    Aprendizaje:[[Express]]
 
-4.  FastAPI:  Es uno de los framework que estoy aprendiendo mas enfocando al 
+4.  FastAPI:  Es uno de los framework que estoy aprendiendo mas enfocando al Back end.
+   
+    Aprendizaje:[[FastAPI]]
 
-	Aprendizaje:[[FastAPI]]
+5. React y React Native:  Es uno de los framework que estoy aprendiendo mas enfocando al front-end.
+   
+   Aprendizaje:[[React y React Native]]
