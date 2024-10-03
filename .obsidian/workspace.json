@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Carrera/Liderazgo y habilidades blandas/Liderazgo.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "right": {
     "id": "53ebc257edbc61e1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Imagenes/Pasted image 20241003104854.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+                "file": "Imagenes/Pasted image 20241003104854.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md"
+                "file": "Imagenes/Pasted image 20241003104854.png"
               }
             }
           }
@@ -146,11 +146,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "367a11a1f05b3c73",
+  "active": "ff5654a36d4fe2fc",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20241003104824.png",
+    "Imagenes/Pasted image 20241003104805.png",
+    "Carrera/Liderazgo y habilidades blandas/Liderazgo.md",
+    "Imagenes/Pasted image 20241003112359.png",
+    "Imagenes/Pasted image 20241003111336.png",
+    "Imagenes/Pasted image 20241003105806.png",
+    "Imagenes/Pasted image 20241003105651.png",
+    "Imagenes/Pasted image 20241003105637.png",
+    "Imagenes/Pasted image 20241003105558.png",
+    "Imagenes/Pasted image 20241003105537.png",
+    "Imagenes/Pasted image 20241003105502.png",
+    "Imagenes/Pasted image 20241003105429.png",
+    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
+    "Carrera/Liderazgo y habilidades blandas",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación de datos.md",
-    "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Fuente de datos.md",
     "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
@@ -158,7 +171,6 @@
     "Carrera/Linux/Linux.md",
     "Carrera/PROYECTO ITOP/ITOP.md",
     "Carrera/GIT-HUB/sección 1/Configuración básica.md",
-    "Imagenes/Pasted image 20241002140822.png",
     "Carrera/GIT-HUB/Git, Git-Hub y Git Hub Actions.md",
     "Carrera/Api y framework/React y React Native.md",
     "Carrera/Api y framework/Frameworks.md",
@@ -176,25 +188,13 @@
     "Proyecto Literario/Novela/CASA HASHINKI/El Márquez Ciro Hashinki.md",
     "Proyecto Literario/Novela/CASA VIRTERRA",
     "Proyecto Literario/Novela/CASA HASHINKI",
-    "Proyecto Literario/Novela/CASA HASHINKI/LA CASA HASHINKI DE ANGOSTURA.md",
-    "Carrera/Matematicas/Mes 1/Mes 1 = Fundamentos y Consolidación de la Base Matemática.md",
-    "Imagenes/reconocer-fracciones_ver_1.png",
     "Carrera/Matematicas/Mes 1",
     "Carrera/Matematicas",
-    "Imagenes/Pasted image 20240927165429.png",
     "Carrera/Analisís de datos/Fundamentos/sección 3",
     "Proyecto Literario/Novela",
-    "Imagenes/Pasted image 20240923150250.png",
-    "Pasted image 20240923141812.png",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.csv",
     "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/~$Organización de datos.xlsx",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.xlsx",
-    "Imagenes/extensiones a instalar.png",
-    "Imagenes/configuracion de paquete.png",
-    "Imagenes/Proceso Iterativo.png",
-    "Pasted image 20240830112032.png",
     "Sin título.canvas",
-    "Imagenes/tabla de datos.jpg",
     "Programación/GIT-HUB/Sin título.canvas",
     "Sin título 2.canvas",
     "Sin título 1.canvas"
