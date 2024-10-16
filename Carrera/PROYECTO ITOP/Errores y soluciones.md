@@ -53,3 +53,21 @@ Perfiles que presentan problema
 2. audit manager
 
 Necesidad de evaluar la utilidad de muchos campos ya que muchos de estos no tienen mucho uso
+
+
+AGREGAR MODULO DE ANEXOS A RESUMEN DE INFRAESTRUCTURA
+
+Para la migración de iTop a nueva versión en el menú de gestión de elementos tecnológicos se agrega el modulo de anexos. Estos son los pasos para realizar este ajuste:
+
+1.  En la herramienta en el menú configuración selecciona el apartado de configuración:
+   
+   ![[Pasted image 20241016083140.png]]
+   
+2. Usa ctrl + f y busca attachments. Cuando lo hayas encontrado, inserta el nombre de la clase padre que vas habilitar en el arreglo y luego le das al boton de aplicar.
+   
+   ![[Pasted image 20241016083834.png]]
+Nota: No borrar o solo modificar lo que se necesite dentro de este archivo, por que este es el archivo de configuración de la herramienta y cualquier afectación dañara al aplicativo.
+
+3.  Se valida que el modulo de anexos fue agregado en todas las clases con relación a la clase 'PhysicalDevice'.
+   
+   ![[Pasted image 20241016084536.png]]

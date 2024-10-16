@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 4/Ordenar y filtrar datos con Excel.md",
+                "file": "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Gestión de proyectos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 4/Ordenar y filtrar datos con Excel.md",
+                "file": "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Gestión de proyectos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 4/Ordenar y filtrar datos con Excel.md",
+                "file": "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Gestión de proyectos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carrera/Analisís de datos/Fundamentos/sección 4/Ordenar y filtrar datos con Excel.md"
+                "file": "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Gestión de proyectos.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "258b56239ae4915f",
   "lastOpenFiles": [
-    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
+    "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Liderazgo.md",
+    "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos/Gestión de proyectos.md",
+    "Carrera/PROYECTO ITOP/Errores y soluciones.md",
+    "Imagenes/Pasted image 20241016084536.png",
+    "Imagenes/Pasted image 20241016083834.png",
+    "Imagenes/Pasted image 20241016083140.png",
+    "Carrera/PROYECTO ITOP/ITOP.md",
+    "Carrera/Fundamentos de programación.md",
     "Carrera/Analisís de datos/Fundamentos/sección 4/Ordenar y filtrar datos con Excel.md",
+    "Carrera/Liderazgo y habilidades blandas/Liderazgo de proyectos",
+    "Carrera/Analisís de datos/Fundamentos en análisis de datos.md",
     "Carrera/Analisís de datos/Fundamentos/sección 4/Transformación de datos con Excel.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Preparación y limpieza de datos para el análisis.md",
     "Carrera/Analisís de datos/Fundamentos/sección 4/Formatear y ajustar datos.md",
@@ -166,16 +175,10 @@
     "Imagenes/Pasted image 20241002140822.png",
     "Imagenes/Pasted image 20241003105637.png",
     "Imagenes/Pasted image 20241003105651.png",
-    "Imagenes/Pasted image 20241003105806.png",
-    "Imagenes/Pasted image 20241003111336.png",
-    "Imagenes/Pasted image 20241003112359.png",
-    "Carrera/Liderazgo y habilidades blandas/Liderazgo.md",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos en archivos estructurados.md",
     "Carrera/Liderazgo y habilidades blandas",
     "Carrera/Analisís de datos/Fundamentos/sección 3/Datos no estructurados.md",
-    "Carrera/Fundamentos de programación.md",
     "Carrera/Linux/Linux.md",
-    "Carrera/PROYECTO ITOP/ITOP.md",
     "Carrera/Api y framework/React y React Native.md",
     "Carrera/Api y framework/Frameworks.md",
     "Carrera/JAVASCRIPT, FRAMEWORKS Y VARIANTES/JAVA SCRIPT.md",
@@ -184,8 +187,6 @@
     "Carrera/Api y framework/FastAPI.md",
     "Carrera/Api y framework/Express.md",
     "Carrera/Api y framework/Angular.md",
-    "Carrera/Api y framework/TypeScript.md",
-    "Proyecto Literario/Novela/MUNDO.md",
     "Carrera/GIT-HUB/sección 1",
     "Proyecto Literario/Novela/CASA VIRTERRA",
     "Proyecto Literario/Novela/CASA HASHINKI",
@@ -193,7 +194,6 @@
     "Carrera/Matematicas",
     "Carrera/Analisís de datos/Fundamentos/sección 3",
     "Proyecto Literario/Novela",
-    "Carrera/Analisís de datos/Fundamentos/Laboratorios/Ejercicios de excel/Organización de datos.csv",
     "Sin título.canvas",
     "Programación/GIT-HUB/Sin título.canvas",
     "Sin título 2.canvas",
