@@ -4,12 +4,11 @@ Ordenación y filtración de datos mediante conversión de datos, uso de formato
 
 Temario
 
+* *  Formatear y ajustar datos: Utilice herramientas y técnicas de análisis de datos para formatear y ajustar datos con Excel.
+  
 * Ordenar y filtrar datos con Excel: Utilice herramientas y técnicas de análisis de datos para ordenar y filtrar datos con Excel.
-  [[Ordenar y filtrar datos con Excel]]
-  
-* Formatear y ajustar datos: Utilice herramientas y técnicas de análisis de datos para formatear y ajustar datos con Excel.
   [[Formatear y ajustar datos]]
-  
+
 * Cálculos de datos: Utilice técnicas de Excel para realizar cálculos de datos.
   [[Cálculos de datos]]
 

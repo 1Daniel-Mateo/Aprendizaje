@@ -96,12 +96,55 @@ jobs:
 ```
 
 
+Git-Hub Actions: Esta acción tiene una tienda para agregar plugins relacionados con las acciones que se realizen en el repositorio y encapsular las acciones repetitivas.
 
+## Instalación de paquetes
 
+Se puede generar de manera automatizada la instalación de paquetes que necesitemos para el desarrollo, lo importante es definir la instalación de estos paquetes usando plugins de git-hub marketplace y un archivo donde tienes instaladas todas las dependencias.
 
+```
+# Cualquier archivo que se encuentre en el directorio .github/workflows
 
+# Nombre de workflow
 
+name: Hola Mundo
 
+  
 
+# Evento que se va a ejecutar
 
+on: [push]
+
+  
+  
+
+# se ejecutará cuando se ejecute el evento
+
+jobs:
+
+  #  Job que se ejecutará
+  
+    paquete:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # plugin checkout de git hub intregrado
+
+    - name: Checkout
+
+      uses: actions/checkout@v4.2.1
+
+      #Llamada para agregar el paquete en el archivo instalar.sh
+
+    - name: ls
+
+      run: |
+
+        chmod  +x instalar.sh
+
+        ./instalar.sh
+
+```
 
