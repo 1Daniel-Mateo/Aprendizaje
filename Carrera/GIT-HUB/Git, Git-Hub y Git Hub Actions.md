@@ -47,5 +47,6 @@ Para la creación de este archivo de configuración
 
 Secciones del curso Git Hub Actions
 
-Sección 2: [[Configuración básica]]
+Sección 1: [[Configuración básica]]
+Sección 2:[[Instalación de paquetes]]
 

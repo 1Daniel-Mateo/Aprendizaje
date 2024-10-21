@@ -1,6 +1,7 @@
 #gestion_de_proyectos
 
 Habilidades de comunicación y liderazgo efectivo: [[Liderazgo]]
+Bases para planificar un proyecto:[[Bases para planificar un proyecto]]
 
 La gestión de proyectos, conocimientos, destrezas, requisitos de un proyecto y lograr el resultado deseado.
 
@@ -14,7 +15,7 @@ La gestión de proyectos, conocimientos, destrezas, requisitos de un proyecto y 
 * Ciclo de vida de proyectos
 * Definir estructura de la organización y cultura.
 
- 
+---
 
 #### ¿ Que es un proyecto ?
 
@@ -30,7 +31,7 @@ dentro del plazo y el presupuesto previstos.
 2. Presupuestar la compra o materiales que se necesitan para llegar al gran objetivo.
 3. Mantener una buena comunicación y gestión de roles entre los miembros del equipo para mejorar el desarrollo de los procesos en el proyecto propuesto.
 
-#### Planificación y organización
+### Planificación y organización
 
 Todo proyecto tiene que ir en línea con la necesidad que se plantea solucionar y lo que que se quiere lograr.
 
@@ -53,3 +54,40 @@ Tanto en el ámbito personal y laboral es importante reconocer con que habilidad
 * ***Asistente del proyecto o programa.** Apoya a los miembros del equipo que trabajan en un proyecto y proporcionan respaldo administrativo. Puede realizar investigaciones o elaborar documentos de capacitación junto con otros trabajos asignados por los líderes del programa.
 * ***Coordinador del proyecto o programa.** Participa activamente en trabajos prácticos y tareas administrativas del proyecto. Trabaja bajo la dirección de un gerente de proyectos para cumplir plazos y el presupuesto.
 * ***Especialista en soporte de proyectos.** Trabaja junto a un gerente de proyectos y los integrantes del equipo para supervisar los proyectos asignados. También puede ser responsable de capacitar y desarrollar a los empleados para que lleven a cabo las tareas designadas.
+
+DEVTALLES
+### Puestos de gestión de programas y portfolios
+
+Los gerentes de proyectos, programas y portafolios tiene diferentes tipos y niveles de responsabilidad, todos son gerentes de proyectos. En el cuarto curso del programa de este certificado, aprenderás más sobre cómo diferenciar proyectos, programas y portfolios.
+
+
+**Gerentes de programas.** Gestiona un grupo de proyectos relacionados o similares entre sí y coordinan de estos proyectos. Hacen lo posible por mantener la comunicación eficaz entre los gerentes de proyectos individuales y proporcionan apoyo a la organización cuando es necesario. También colaboran en crear y gestionar objetivos a largo plazo para su organización.
+
+**Gestores de portfolio.** Son responsables de gestionar los grupo de programas relacionados con la misma organización. Coordinan diversos programas para garantizar que avancen como se espera y que la organización cumpla con sus iniciativas estratégicas. Estos gerentes de portafolio examinan todos los proyectos, programas de la organización y priorizan el trabajo según sea necesario.
+
+### Puestos de gestión operativa
+
+Estos puestos te permiten trabajar con colegas y con la gestión de diversos segmentos empresariales, y esto te permite apreciar lo que hace cada segmento a diario. Los aspectos clave que se incluyen en la gestión de proyectos es que se mantengan dentro del presupuesto y los plazos definidos.
+
+Puestos de gestión operativa:
+
+* **Analista de operaciones.** Coordinar la investigación, analizar el flujo de trabajo, crea procedimientos empresariales y recomienda cambios para mejorar el proyecto y la empresa.
+  
+* **Gerente de operaciones.** Supervisa la toma de decisiones estratégicas e implementa planes de acción basados en informes financieros, cronogramas y recursos.
+  
+* **Director de operaciones.** Es responsable de supervisar la funciones administrativas y operaciones cotidianas de su compañía.
+
+### Puestos del área Agile
+
+Puestos para la gestión de proyectos con metodologías agiles:
+
+* **Scrum Mater.** Conoce y aplica conocimientos sobre el marco de trabajo Agile y Scrum, y capacitar a otras personas en los valores y principios de Scrum.
+* **Encargado del producto.** Contribuye con la dirección del desarrollo y progreso de los productos.
+
+### Funciones de gestión específicas del sector
+
+Tener experiencia en trabajar en equipo para lograr una tarea y comprender cómo llevar a cabo una iniciativa dentro del plazo y el presupuesto previstos son aspectos de tu experiencia profesional, combinados con tus conocimientos del área de gestión de proyectos, que te permiten pasar de un sector a otro. Inclusive estas destrezas transferibles puedes aplicarlas en muchos puestos de trabajo y distintas carreras.
+
+### Desarrollo de redes
+
+Se refiere a conocer a otras personas en un entrono profesional con el objetivo de aprender, compartir conocimientos y crear nuevos contactos laborales. Importante conectar con las personas.
