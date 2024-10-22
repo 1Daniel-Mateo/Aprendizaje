@@ -60,3 +60,22 @@ Archivo main principal donde llamamos al action:
 
 Estructura de archivos y el uso del composite para que nos ejecute los steps en el archivo:
 ![[Pasted image 20241021165237.png]]
+
+
+### Parámetros
+
+Se usa la etiqueta input en la cual almacenamos un parámetro en los valores se guardan dentro de un action.
+
+![[Pasted image 20241022150655.png]]
+
+En el workflow que es directorio donde llamamos a action usando el input para que nos muestre la respuesta
+
+![[Pasted image 20241022150549.png]]
+
+
+## Servicios
+
+Una de las cosas mas importantes sobre Git Hub Actions es que trabaja con contenedores de Docker y usando Docker Hub donde instalamos la imagen de MySQL o alguna otra tecnología, usando servicies para correrla.
+
+![[Pasted image 20241022160726.png]]
+
