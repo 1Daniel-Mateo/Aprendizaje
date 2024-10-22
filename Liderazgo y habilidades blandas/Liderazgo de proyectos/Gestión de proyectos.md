@@ -2,6 +2,9 @@
 
 Habilidades de comunicación y liderazgo efectivo: [[Liderazgo]]
 Bases para planificar un proyecto:[[Bases para planificar un proyecto]]
+Responsabilidades de un líder de proyecto: [[Responsabilidades en la gestión de proyectos]]
+Las destrezas básicas de un gerente de proyectos: [[Destrezas de un gerente de proyectos]]
+
 
 La gestión de proyectos, conocimientos, destrezas, requisitos de un proyecto y lograr el resultado deseado.
 
