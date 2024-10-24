@@ -51,3 +51,4 @@ El equipo esperará que demuestres tu liderazgo en momentos de ambigüedad y cam
 - **Toma decisiones y respétalas**. Intenta no dudar de tus decisiones frente al equipo, ya que esto puede generar una mayor incertidumbre. Si necesitas cambiar de rumbo, explica con claridad al equipo por qué has elegido hacerlo. 
 
 - **Confía en la experiencia de tu equipo**. Aumenta la claridad al hacer que todos los miembros del equipo analicen lo que ya saben o creen que es cierto sobre los componentes del proyecto, como lo que implican ciertas tareas o recursos necesarios, en función de sus áreas de especialización. Luego, habla sobre lo que aún no se sabe y haz una lluvia de ideas sobre formas de recopilar más información.
+

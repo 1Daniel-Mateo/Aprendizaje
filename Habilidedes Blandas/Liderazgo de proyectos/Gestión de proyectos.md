@@ -4,7 +4,13 @@ Habilidades de comunicación y liderazgo efectivo: [[Liderazgo]]
 Bases para planificar un proyecto:[[Bases para planificar un proyecto]]
 Responsabilidades de un líder de proyecto: [[Responsabilidades en la gestión de proyectos]]
 Las destrezas básicas de un gerente de proyectos: [[Destrezas de un gerente de proyectos]]
-
+Liderazgo y dinámicas:[[Liderazgo y dinámica de un equipo]]
+El ciclo de vida y las metodologías de la gestión de proyectos: [[Ciclo de vida y metodologías de la gestión de proyectos]]
+Metodologías de proyectos:[[Metodologías de proyectos]]
+Estructura organizacional: [[Estructura y cultura de una organización]]
+Cultura organizacional: [[Cultura organizacional]]
+Proyectos de vida: [[Proyectos en la vida y en la organización]]
+Plan de estudio de ingles: [[Plan de estudio de Ingles]]
 
 La gestión de proyectos, conocimientos, destrezas, requisitos de un proyecto y lograr el resultado deseado.
 
