@@ -40,8 +40,6 @@ Hacer preguntas para tener otra cita con una posible pareja, cliente o compañer
 
 ![[Pasted image 20241003104653.png]]
 
-
-
 Lenguajes corporal:
 ![[Pasted image 20241003104805.png]]
 

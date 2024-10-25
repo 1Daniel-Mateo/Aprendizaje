@@ -49,4 +49,6 @@ Secciones del curso Git Hub Actions
 
 Sección 1: [[Configuración básica]]
 Sección 2:[[Instalación de paquetes]]
+Sección 3: [[Variables y secretos]]
+Sección 4:[[Construyendo workflows]]
 

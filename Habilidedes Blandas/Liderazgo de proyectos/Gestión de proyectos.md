@@ -10,7 +10,7 @@ Metodologías de proyectos:[[Metodologías de proyectos]]
 Estructura organizacional: [[Estructura y cultura de una organización]]
 Cultura organizacional: [[Cultura organizacional]]
 Proyectos de vida: [[Proyectos en la vida y en la organización]]
-Plan de estudio de ingles: [[Plan de estudio de Ingles]]
+Resolución de problemas:[[Resolución de problemas]]
 
 La gestión de proyectos, conocimientos, destrezas, requisitos de un proyecto y lograr el resultado deseado.
 

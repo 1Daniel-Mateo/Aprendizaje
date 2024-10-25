@@ -92,3 +92,41 @@ Debes estar preparado para los cambios y no debes resentirte a ellos mas bien ve
 - **Diagramas de flujo.** Que permitan visualizar el proceso de desarrollo del proyecto.
 
 - **Mapa cultural.** Que ilustre la cultura de la empresa y cómo los valores, las normas y el comportamiento de los empleados de la empresa pueden verse afectados por el cambio.
+
+---
+# Gobierno corporativo y dirección de proyectos
+
+#gestion_corporativa
+
+## Dirección corporativa
+
+El gobierno corporativo es el framework mediante el cual una organización logra sus metas y objetivos. También es una forma de encontrar un equilibrio entre los requisitos de distintas entidades, como los interesados, la dirección y los clientes. El gobierno corporativo afecta todas las partes de una organización, incluidos los planes de acción, los controles internos y externos, y las mediciones del rendimiento.
+
+**Comités de conducción.** Los comités de conducción definen las prioridades de una organización y gestionan el curso general de sus actividades.
+
+## Dirección de proyectos
+
+La dirección de proyectos es el marco que define cómo se toman las decisiones en el proyecto. Una correcta dirección de proyectos ayuda a que un proyecto avance sin problemas, a tiempo y dentro del presupuesto. La dirección de proyectos implica todos los elementos clave que hacen que un proyecto tenga éxito. Indica qué actividades realiza una organización y quién es el responsable de esas actividades. Abarca las políticas, los reglamentos, las funciones, los procesos, los procedimientos y las responsabilidades.
+
+**Intersección entre el gobierno corporativo y la dirección de proyectos**
+
+Estas necesidades influirán en la forma en que implementas y supervisas el framework de dirección en tu proyecto. La dirección de proyectos hace referencia a aquellas áreas del gobierno corporativo que están específicamente relacionadas con las actividades del proyecto. Una dirección de proyectos eficaz garantiza que los proyectos de una organización estén alineados con los objetivos más amplios de la organización, se entreguen de manera eficiente y sean sostenibles.
+
+
+Factores a tener en cuenta:
+
+- Tener en cuenta los intereses a corto y largo plazo de la organización.
+
+- Tomar decisiones informadas sobre qué proyectos emprender y evitar ciertos proyectos si no tienes los recursos suficientes.
+
+- Proporcionar información oportuna, relevante y fiable al directorio y a otros interesados importantes. 
+
+- Contar con el aporte y la aceptación de los altos directivos, ya que son los responsables de la toma de decisiones. 
+
+- Durante la fase de iniciación, priorizar objetivos claros, alcanzables y sostenibles para evitar la confusión y el conflicto.
+
+- Durante la fase de planificación, asignar la propiedad y la responsabilidad a un equipo experimentado para entregar, supervisar y controlar el proceso. 
+
+- Durante la fase de ejecución, aprender de los errores y adaptarse a conocimientos nuevos o mejorados.
+
+
