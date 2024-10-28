@@ -152,3 +152,5 @@ Estas líneas varían según la sintaxis; sin embargo su lógica es la misma
 
 
 **QUERY:** instrucciones que se envían a una base de datos para recuperar, cambiar o manipular datos
+
+Conceptos de base de datos:[[SQL]]

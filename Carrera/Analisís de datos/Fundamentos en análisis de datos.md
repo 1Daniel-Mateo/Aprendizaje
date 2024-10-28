@@ -12,7 +12,7 @@
 5. Analizar los datos utilizando estadísticas
    [[Analizar los datos con estadisticas]]
 6.  Consultas SQL
-   [[Introducción consulta estructurada]] 
+    [[Introducción consulta estructurada]] 
 
 
 

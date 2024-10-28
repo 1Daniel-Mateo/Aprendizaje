@@ -23,3 +23,16 @@ SELECT columnas FROM tabla WHERE datos filtrados ORDER BY columna para ordenar l
 ## Operadores de SQL
 
 
+**RVAG.**  Devuelve el promedio de todos los valores de ese campo o expresión.
+
+```
+SELECT AVG() FROM tabla;
+```
+
+![[Pasted image 20241028150241.png]]
+
+**COUNT.**
+
+```
+SELECT COUNT(*),MAX(Score),MIN(Score) FROM tabla WHERE condicion
+```

@@ -1,7 +1,7 @@
 ## Catalogo
 
 Diagramas:[[Diagramas de solución]]
-
+Decisiones Grupales: [[Decisiones Grupales]]
 ## 1.1 Toma de decisiones y resolución de problemas en una organización
 
 La toma decisiones es la habilidad de definirse como un proceso sistemático de elección entre un conjunto de alternativas con base en criterios específicos y en la información disponible.
