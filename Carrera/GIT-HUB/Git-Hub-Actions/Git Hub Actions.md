@@ -1,4 +1,4 @@
-#git
+#git_hub_actions
 ### Conceptos Básicos:
 
 CI/CD: Método ideado para automatización los procesos de desarrollo y hacer más eficiente su integración.
@@ -51,4 +51,6 @@ Sección 1: [[Configuración básica]]
 Sección 2:[[Instalación de paquetes]]
 Sección 3: [[Variables y secretos]]
 Sección 4:[[Construyendo workflows]]
-
+Sección 5:[[Workflow Ruuners]]
+Sección 6:[[Despliegues]]
+Sección 7:[[Monitoreo y Notificaciones]]
