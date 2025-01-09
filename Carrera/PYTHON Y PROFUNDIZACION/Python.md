@@ -1,6 +1,6 @@
-[[Curso]]
+[[Curso FastApi]]
 [[Retos de logica]]
-
+[[Curso Django]]
 
 Para habilitar el uso de Docker para un usuario que no tiene privilegios de administrador en Windows, debes agregar ese usuario al grupo `docker-users`. Esto le permitirá ejecutar comandos de Docker sin necesidad de permisos de administrador. A continuación, se detallan los pasos para realizar esta configuración:
 

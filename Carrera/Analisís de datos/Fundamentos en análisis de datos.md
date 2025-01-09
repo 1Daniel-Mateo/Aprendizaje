@@ -11,9 +11,10 @@
    [[Transformación de datos con Excel]]
 5. Analizar los datos utilizando estadísticas
    [[Analizar los datos con estadisticas]]
-6.  Consultas SQL
-    [[Introducción consulta estructurada]] 
-
+6. Consultas SQL
+    [[Introducción consulta estructurada]]
+7. Introducción a las consultas estructuradas
+   [[Introducción a las consultas estructuradas]]
 
 
 
